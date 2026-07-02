@@ -1,0 +1,14 @@
+export { Hero } from "./Hero";
+export { TrustedBy } from "./TrustedBy";
+export { PlatformStats } from "./PlatformStats";
+export { ProductPreview } from "./ProductPreview";
+export { ScrollIndicator } from "./ScrollIndicator";
+export { Features } from "./Features";
+export { WorkflowTimeline } from "./WorkflowTimeline";
+export { AIShowcase } from "./AIShowcase";
+export { Collaboration } from "./Collaboration";
+export { Integrations } from "./Integrations";
+export { Testimonials } from "./Testimonials";
+export { Pricing } from "./Pricing";
+export { FAQ } from "./FAQ";
+export { CTA } from "./CTA";
